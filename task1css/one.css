@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrap {
+    background-color: silver;
+    margin: 0 auto;
+    width: 80%;
+    padding-bottom: 80%;
+}
+.map {
+    width: 25%;
+    padding-bottom:25%;
+    border-radius: 10%;
+    background-color: orange;
+    margin: 4%;
+    float: left;
+
+}
