@@ -1,0 +1,3 @@
+this is a simple txt 
+
+now we start learning git 
